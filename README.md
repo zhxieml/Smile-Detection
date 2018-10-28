@@ -1,5 +1,5 @@
 # Smile-Detection
-The final project of Introduction to computer science
+The final project of Introduction to Computer Science, teaming up with Xu Zihan
 
 1.Run "main" to get all the faces and collect lbp.
 
